@@ -1,6 +1,9 @@
-# `@jaebradley/simple-lru-cache`
-
 [![Greenkeeper badge](https://badges.greenkeeper.io/jaebradley/simple-lru-cache.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/jaebradley/simple-lru-cache.svg?branch=master)](https://travis-ci.org/jaebradley/simple-lru-cache)
+[![npm](https://img.shields.io/npm/v/@jaebradley/simple-lru-cache.svg)](https://www.npmjs.com/package/@jaebradley/simple-lru-cache)
+[![npm](https://img.shields.io/npm/dt/@jaebradley/simple-lru-cache.svg)](https://www.npmjs.com/package/@jaebradley/simple-lru-cache)
+
+# `@jaebradley/simple-lru-cache`
 
 A simple Least Recently Used `(LRU)` Cache implemented mostly as an exercise.
 
