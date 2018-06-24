@@ -1,5 +1,7 @@
 # `@jaebradley/simple-lru-cache`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jaebradley/simple-lru-cache.svg)](https://greenkeeper.io/)
+
 A simple Least Recently Used `(LRU)` Cache implemented mostly as an exercise.
 
 The goal was to create a simple API with limited surface area to keep private variables and methods, private.
