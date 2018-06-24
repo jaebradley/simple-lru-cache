@@ -2,7 +2,7 @@
 
 A simple Least Recently Used `(LRU)` Cache implemented mostly as an exercise.
 
-The goal was to create a simple API with limited surface area to prevent (as much as possible) potentially overriding a crucial `size` property (for example).
+The goal was to create a simple API with limited surface area to keep private variables and methods, private.
 
 ## Installation
 
@@ -20,9 +20,9 @@ import LRUCache from '@jaebradley/simple-lru-cache';
 
 ### Cache Creation
 
-**Note: `LRUCache` is NOT a `constructor` - do not use the `new` operator**
+**Note: The `LRUCache` function is NOT a `constructor` - do not use the `new` operator**
 
-The `LRUCache` takes a single `maximumSize` parameter that specifies the maximum number of entries the cache can hold. The `maximumSize` parameter must be an integer.
+The `LRUCache` function takes a single `maximumSize` parameter that specifies the maximum number of entries the cache can hold. The `maximumSize` parameter must be an integer.
 
 ```javascript
 const cache = LRUCache(); // cache with a maximum size of 10, by default
