@@ -62,7 +62,7 @@
     "babel-jest": "23.0.1",
     "benchmark": "^2.1.4",
     "codecov": "^3.0.2",
-    "es-check": "^2.0.4",
+    "es-check": "^3.0.0",
     "eslint": "^5.0.0",
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.12.0",
