@@ -63,7 +63,7 @@
     "benchmark": "^2.1.4",
     "codecov": "^3.0.2",
     "es-check": "^2.0.4",
-    "eslint": "^5.0.0",
+    "eslint": "^6.0.0",
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.12.0",
     "husky": "^0.14.3",
