@@ -1,7 +1,10 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/jaebradley/simple-lru-cache.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/jaebradley/simple-lru-cache.svg?branch=master)](https://travis-ci.org/jaebradley/simple-lru-cache)
+[![codecov](https://codecov.io/gh/jaebradley/simple-lru-cache/branch/master/graph/badge.svg)](https://codecov.io/gh/jaebradley/simple-lru-cache)
 [![npm](https://img.shields.io/npm/v/@jaebradley/simple-lru-cache.svg)](https://www.npmjs.com/package/@jaebradley/simple-lru-cache)
-[![npm](https://img.shields.io/npm/dt/@jaebradley/simple-lru-cache.svg)](https://www.npmjs.com/package/@jaebradley/simple-lru-cache)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/@jaebradley/simple-lru-cache)
+[![npm-total-downloads](https://img.shields.io/npm/dt/@jaebradley/simple-lru-cache.svg)](https://www.npmjs.com/package/@jaebradley/simple-lru-cache)
+![GitHub](https://img.shields.io/github/license/jaebradley/simple-lru-cache)
 
 # `@jaebradley/simple-lru-cache`
 
